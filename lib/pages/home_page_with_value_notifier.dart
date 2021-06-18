@@ -17,6 +17,9 @@ class _HomePageWithValueNotifierState extends State<HomePageWithValueNotifier> {
     final theme = Theme.of(context);
 
     return Scaffold(
+      appBar: AppBar(
+        title: Text('Update with ValueNotifier'),
+      ),
       body: SafeArea(
         child: Container(
           child: Column(

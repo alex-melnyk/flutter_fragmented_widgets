@@ -17,6 +17,9 @@ class _HomePageWithSetStateState extends State<HomePageWithSetState> {
     final theme = Theme.of(context);
 
     return Scaffold(
+      appBar: AppBar(
+        title: Text('Update with setState'),
+      ),
       body: SafeArea(
         child: Container(
           child: Column(
