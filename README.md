@@ -2,6 +2,8 @@
 
 The difference measure between classic setState and ValueNotifier.
 
+[https://medium.com/litslink/flutter-reduce-render-time-ed5580377428](https://medium.com/litslink/flutter-reduce-render-time-ed5580377428)
+
 ![PREVIEW](./PREVIEW.png)
 
 ## State changing performance
